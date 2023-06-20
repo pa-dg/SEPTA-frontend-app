@@ -13,7 +13,7 @@ import InputLabel from '@mui/material/InputLabel'
 import MenuItem from '@mui/material/MenuItem'
 import FormControl from '@mui/material/FormControl'
 import Select, { SelectChangeEvent } from '@mui/material/Select'
-import { StationInfoTableHeader } from './StationInfoTableHeader'
+// import { StationInfoTableHeader } from './StationInfoTableHeader'
 import { RawStationInfo, StationInfo, FilterDirection } from './types'
 
 interface StationInfoProps {
