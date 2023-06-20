@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import data from '../stations.json'
 import '../src/assets/stylesheets/main.scss'
 import Stations from './components/Stations'
