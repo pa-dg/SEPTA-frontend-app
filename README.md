@@ -2,7 +2,7 @@
 
 > SEPTA Frontend App is a front-end web application to manage the list of favorite stations.
 
-Check out the app deployed on github pages here --> `https://pa-dg.github.io/SEPTA-frontend-app/`
+Check out the app deployed on github pages here --> [SEPTA-frontend-app](https://pa-dg.github.io/SEPTA-frontend-app/)
 
 ## MVP Features:
 
