@@ -6,7 +6,7 @@ Check out the app deployed on github pages here --> [SEPTA-frontend-app](https:/
 
 ## MVP Features:
 
-### View list of All Stations
+### View List of All Stations
 
 - User is able to view list of all stations (from the stations.json file within the project directory)
 
@@ -14,7 +14,7 @@ Check out the app deployed on github pages here --> [SEPTA-frontend-app](https:/
 
 - User can favorite/unfavorite a station by toggling 'star' icon button. This information is persisted into the browser using web storage API (Localstorage)
 
-### Filter between list of favorite stations and all stations
+### Filter between List of Favorite Stations and All Stations
 
 - User can toggle between a list of favorite stations and all stations
 
@@ -61,6 +61,8 @@ To set up and run locally:
   npm run dev
 ```
 
-4. Opn your browser tab to `http://localhost:5173/`.
+4. Open your browser tab to `http://localhost:5173/`.
+
+## Preview of the application
 
 ![septa-app-screen](./src/assets/Septa-app-screen.png)
